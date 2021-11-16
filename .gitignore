@@ -1,2 +1,4 @@
-zig-cache/
 asset/**/*.spv
+
+build/
+**/.ccls-cache/
